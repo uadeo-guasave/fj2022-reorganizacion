@@ -1,3 +1,5 @@
 <?php
 
-# TODO: create class to manage access to db
+class Mysql {
+    protected $data = [];
+}
